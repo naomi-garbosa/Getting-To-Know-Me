@@ -88,9 +88,8 @@ li, p {
 	gap: 50px;
 	padding: 5px;
 	border-width: 10px;
-	padding: 0px 0px 100px 0px;
 	width: 100%;
-  	max-width: 1200px;
+  	max-width: 10000px;
   	margin: 0 auto;
 }
 
@@ -138,7 +137,7 @@ img {
 	border-radius: 15px;
 	padding: 5px;
 	width: 100%;
-  	max-width: 1200px;
+  	max-width: 10000px;
   	margin: 0 auto;
 }
 
