@@ -5,7 +5,7 @@
 }
 
 body {
-	margin: 0px 50px 50px 50px; 
+	margin: 0px 10px 10px 10px; 
 	line-height: 1.6;
 	background-color: #F7F4D5;
 }
@@ -39,34 +39,34 @@ h1 {
 	color: #105666;
 	font-family: Oswald, sans-serif;
 	font-weight: bolder;
-	font-size: 8rem;
+	font-size: 5rem;
 }
 	
 h2 {
 	color: #105666;
 	font-family: Oswald, sans-serif;
 	font-weight: bold;
-	font-size: 4.5rem;
+	font-size: 4rem;
 }
 	
 h3 {
 	color: #105666;
 	font-family: Oswald, sans-serif;
 	font-weight: bold;
-	font-size: 3.5rem;
+	font-size: 3.25rem;
 }
 	
 h4 {
 	color: #105666;
 	font-family: Oswald, sans-serif;
 	font-weight: bold;
-	font-size: 2.5rem;
+	font-size: 2.80rem;
 }
 	
 li, p {
 	color: #105666;
-	font-family: Noto Sans, Tahoma, sans-serif;
-	font-size: 2.5rem; 
+	font-family: Lato, Tahoma, sans-serif;
+	font-size: 1.5rem; 
 }
 
 #larger {
